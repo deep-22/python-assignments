@@ -1,0 +1,26 @@
+1. values are= "hello",-87.8,6
+   Expressions are=*,/,+,-
+2. A string is a literal text ,To create a sting we should write it in single or double,triple coat,
+it does not store anything and other hand variable stores data such as string,int,float etc.
+3.There are many data types such as-int,float,char,string etc
+  >Integers – This value is represented by int class. It contains positive or negative whole numbers 
+ (without fraction or decimal).
+ > Float – This value is represented by float class. It is a real number with floating point representation. 
+  It is specified by a decimal point by a positive or negative integer.
+ >string -- A string is a collection of one or more characters put in a single quote, double-quote or triple quote.
+            It is represented by str class. 
+4.  An expression is a construct made up of variables, operators .As you can see from the other expressions, an expression can return other types of values as well,
+    such as boolean or String .
+5. An expression evaluates to a value. A statement does something. Statements represent an action or command 
+   e.g print statements, assignment statements. 
+   Expression is a combination of variables, operations and values that yields a result value.
+6.23
+7.'spamspamspam'
+8. Because variable names cannot begin with a number.
+9.  int(), float(), and str() functions
+10. upper commas were not given correct .   "I have eaten ' + 99 + ' burritos."
+
+
+
+
+ 
